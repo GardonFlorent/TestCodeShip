@@ -16,6 +16,7 @@
     "url": "https://github.com/GardonFlorent/TestCodeShip/issues"
   },
   "dependencies": {
-    "express": "~4.13.4"
+    "express": "^4.13.4",
+    "supertest": "^1.2.0"
   }
 }
