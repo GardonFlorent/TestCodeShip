@@ -8,4 +8,4 @@ api.get('/', function(req, res, next) {
 console.log('server started on port 3000');
 api.listen(3000);
 
-module.export = api;
+module.exports = api;
