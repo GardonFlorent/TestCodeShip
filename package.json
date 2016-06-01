@@ -1,0 +1,22 @@
+{
+  "name": "TestCodeShip",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GardonFlorent/TestCodeShip.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/GardonFlorent/TestCodeShip/issues"
+  },
+  "dependencies": {
+    "express": "^4.13.4",
+    "supertest": "^1.2.0"
+  }
+}
