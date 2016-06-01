@@ -6,6 +6,6 @@ describe('api', function() {
 		request(api)
 			.get('/')
 			.send()
-			.expect('Hello Foobar')
+			.expect('Hello Foobar')	
 	});
 });
